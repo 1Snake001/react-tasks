@@ -1,0 +1,6 @@
+.button{
+    width: 30px;
+    border-radius: 5px;
+    border: solid thin #ccc;
+    margin: 0 5px;
+}
